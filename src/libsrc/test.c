@@ -34,7 +34,7 @@ int test_printf4(void)
 
 int test_printf5(void)
 {
-    printf("Hello, World5!\n");
+    printf("Hello, World56!\n");
     printf("Hello, World6!\n");
     printf("Hello, World7!\n");
     return 0;
